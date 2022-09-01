@@ -1,0 +1,7 @@
+{"level":"info","message":"BillSplits Program","timestamp":"2022-09-01T06:03:30.946Z"}
+{"level":"info","message":"Creating Lists","timestamp":"2022-09-01T06:03:30.948Z"}
+{"level":"info","message":"Creating Lists","timestamp":"2022-09-01T06:03:30.949Z"}
+{"level":"info","message":"Creating Objects","timestamp":"2022-09-01T06:03:30.949Z"}
+{"level":"info","message":"Summarizing by Users","timestamp":"2022-09-01T06:03:30.949Z"}
+{"level":"info","message":"summarize_ByUsers","timestamp":"2022-09-01T06:03:30.950Z"}
+{"level":"info","message":"Final bill splits calculation","timestamp":"2022-09-01T06:03:30.950Z"}
