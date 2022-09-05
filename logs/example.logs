@@ -1,7 +1,13 @@
-{"level":"info","message":"BillSplits Program","timestamp":"2022-09-01T06:03:30.946Z"}
-{"level":"info","message":"Creating Lists","timestamp":"2022-09-01T06:03:30.948Z"}
-{"level":"info","message":"Creating Lists","timestamp":"2022-09-01T06:03:30.949Z"}
-{"level":"info","message":"Creating Objects","timestamp":"2022-09-01T06:03:30.949Z"}
-{"level":"info","message":"Summarizing by Users","timestamp":"2022-09-01T06:03:30.949Z"}
-{"level":"info","message":"summarize_ByUsers","timestamp":"2022-09-01T06:03:30.950Z"}
-{"level":"info","message":"Final bill splits calculation","timestamp":"2022-09-01T06:03:30.950Z"}
+{"level":"info","message":"info","timestamp":"2022-09-05T10:31:38.681Z"}
+{"level":"info","message":"info","timestamp":"2022-09-05T10:31:38.684Z"}
+{"level":"info","message":"Creating Lists","timestamp":"2022-09-05T10:31:38.685Z"}
+{"level":"info","message":"Grouping Objects based on keys","timestamp":"2022-09-05T10:31:38.685Z"}
+{"level":"info","message":"BillSplits Program","timestamp":"2022-09-05T10:35:02.834Z"}
+{"level":"info","message":"Creating objects for the class","timestamp":"2022-09-05T10:35:02.837Z"}
+{"level":"info","message":"Creating Lists","timestamp":"2022-09-05T10:35:02.839Z"}
+{"level":"info","message":"Grouping Objects based on keys","timestamp":"2022-09-05T10:35:02.841Z"}
+{"level":"info","message":"BillSplits Program","timestamp":"2022-09-05T10:35:49.484Z"}
+{"level":"info","message":"Creating objects for the class","timestamp":"2022-09-05T10:35:49.488Z"}
+{"level":"info","message":"Creating Lists","timestamp":"2022-09-05T10:35:49.491Z"}
+{"level":"info","message":"Grouping Objects based on keys","timestamp":"2022-09-05T10:35:49.492Z"}
+{"level":"info","message":"Final bill splits calculation","timestamp":"2022-09-05T10:35:49.493Z"}
