@@ -1,13 +1,5 @@
-{"level":"info","message":"info","timestamp":"2022-09-05T10:31:38.681Z"}
-{"level":"info","message":"info","timestamp":"2022-09-05T10:31:38.684Z"}
-{"level":"info","message":"Creating Lists","timestamp":"2022-09-05T10:31:38.685Z"}
-{"level":"info","message":"Grouping Objects based on keys","timestamp":"2022-09-05T10:31:38.685Z"}
-{"level":"info","message":"BillSplits Program","timestamp":"2022-09-05T10:35:02.834Z"}
-{"level":"info","message":"Creating objects for the class","timestamp":"2022-09-05T10:35:02.837Z"}
-{"level":"info","message":"Creating Lists","timestamp":"2022-09-05T10:35:02.839Z"}
-{"level":"info","message":"Grouping Objects based on keys","timestamp":"2022-09-05T10:35:02.841Z"}
-{"level":"info","message":"BillSplits Program","timestamp":"2022-09-05T10:35:49.484Z"}
-{"level":"info","message":"Creating objects for the class","timestamp":"2022-09-05T10:35:49.488Z"}
-{"level":"info","message":"Creating Lists","timestamp":"2022-09-05T10:35:49.491Z"}
-{"level":"info","message":"Grouping Objects based on keys","timestamp":"2022-09-05T10:35:49.492Z"}
-{"level":"info","message":"Final bill splits calculation","timestamp":"2022-09-05T10:35:49.493Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-06T06:24:48.521Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-06T06:24:48.524Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-06T06:24:48.524Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-06T06:24:48.525Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-06T06:24:48.527Z"}
