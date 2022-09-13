@@ -1,0 +1,10 @@
+
+*.json
+
+#dependency_directory
+node_modules
+
+#logs
+*.logs
+
+exports/

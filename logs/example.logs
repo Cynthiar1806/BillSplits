@@ -3,3 +3,317 @@
 {"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-06T06:24:48.524Z"}
 {"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-06T06:24:48.525Z"}
 {"level":"info","message":"Output is returned as objects","timestamp":"2022-09-06T06:24:48.527Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-09T08:55:17.647Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-09T08:55:17.649Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-09T08:55:17.650Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-09T08:55:17.651Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-09T08:55:17.653Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-09T08:56:15.580Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-09T08:56:15.582Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-09T08:56:15.583Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-09T08:56:15.585Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-09T08:56:15.586Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-09T09:40:23.523Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-09T09:40:23.526Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-09T09:40:23.530Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-09T09:40:23.531Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-09T09:40:23.533Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-09T11:45:26.407Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-09T11:45:26.410Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-09T12:09:12.689Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-09T12:09:12.692Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-09T12:09:12.696Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-09T12:09:12.697Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-09T12:09:12.698Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-09T12:14:28.678Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-09T12:14:28.681Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-09T12:14:28.685Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-09T12:14:28.687Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-09T12:14:28.689Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-09T12:15:25.910Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-09T12:15:25.913Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-09T12:15:25.918Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-09T12:15:25.920Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-09T12:15:25.921Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-09T12:16:15.914Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-09T12:16:15.917Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-09T12:16:15.921Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-09T12:16:15.923Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-09T12:16:15.924Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T08:53:53.648Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T09:11:48.153Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T09:12:56.281Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T09:43:38.223Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T09:43:38.227Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T09:44:52.663Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T09:44:52.666Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T09:44:52.667Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T09:45:31.934Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T09:45:31.937Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T09:45:31.938Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T09:46:12.948Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T09:47:29.536Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T09:48:17.996Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T09:48:17.999Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T09:48:18.003Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T09:48:18.004Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T09:48:57.425Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T09:48:57.429Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T09:48:57.432Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T09:48:57.435Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T10:20:43.760Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:20:43.763Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T10:20:43.767Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:20:43.768Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T10:21:35.439Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:21:35.442Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T10:21:35.447Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:21:35.448Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T10:22:23.950Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:22:23.953Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T10:22:23.955Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:22:23.956Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T10:23:06.582Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:23:06.585Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T10:23:06.586Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:23:06.588Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T10:23:55.164Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:23:55.166Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T10:23:55.167Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:23:55.170Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T10:25:03.496Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:25:03.500Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T10:25:03.501Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:25:03.502Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T10:28:42.747Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:28:42.750Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T10:28:42.750Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:28:42.752Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T10:31:12.812Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:31:12.814Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T10:31:12.816Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:31:12.818Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T10:35:04.136Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:35:04.140Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T10:35:04.141Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:35:04.142Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T10:35:50.369Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:35:50.372Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T10:35:50.373Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:35:50.373Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T10:36:24.475Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:36:24.480Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T10:36:24.481Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T10:36:24.483Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:01:34.528Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:01:34.531Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:01:34.532Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:01:34.535Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:04:33.415Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:04:33.418Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:04:33.419Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:04:33.421Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:04:51.418Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:04:51.421Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:04:51.422Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:04:51.424Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:06:17.922Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:06:17.928Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:06:17.929Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:06:17.930Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:07:13.314Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:08:40.337Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:08:40.343Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:08:40.344Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:08:40.346Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T11:08:40.348Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:08:40.348Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:08:40.350Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T11:08:40.358Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:09:21.466Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:09:21.470Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:09:21.471Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:09:21.473Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T11:09:21.475Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:09:21.476Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:09:21.477Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T11:09:21.485Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:09:41.663Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:09:41.666Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:09:41.668Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:09:41.669Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T11:09:41.671Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:09:41.671Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:09:41.673Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T11:09:41.676Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:10:58.462Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:10:58.465Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:10:58.466Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:10:58.467Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T11:10:58.469Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:10:58.469Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:10:58.471Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T11:10:58.475Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:11:54.617Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:11:54.620Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:11:54.622Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:11:54.624Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T11:11:54.625Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:11:54.626Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:11:54.627Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T11:11:54.639Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:13:12.456Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:13:12.459Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:13:12.460Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:13:12.462Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T11:13:12.463Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:13:12.463Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:13:12.464Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T11:13:12.470Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:14:14.232Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:14:14.235Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:14:14.236Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:14:14.237Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T11:14:14.238Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:14:14.239Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:14:14.240Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T11:14:14.249Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:15:31.715Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:15:31.719Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:15:31.720Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:15:31.722Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:17:02.811Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:17:02.814Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:17:02.815Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:17:02.818Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:38:05.569Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:38:05.572Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:38:05.573Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:38:05.575Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:38:35.382Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:38:35.385Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:38:35.387Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:38:35.391Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:39:06.409Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:39:06.412Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:39:06.413Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:39:06.416Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:39:53.024Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:39:53.027Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:39:53.028Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:39:53.030Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:40:51.639Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:40:51.643Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:40:51.645Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:40:51.647Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T11:40:51.649Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:40:51.649Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:40:51.650Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T11:40:51.660Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:50:05.641Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:50:05.645Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:50:05.646Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:50:05.648Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T11:50:05.650Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:50:05.651Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:50:05.653Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T11:50:05.659Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:50:22.053Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:50:22.056Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:50:22.057Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:50:22.059Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T11:50:22.061Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:50:22.061Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:50:22.062Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T11:50:22.068Z"}
+{"level":"info","message":"Bill Splits Calculation","timestamp":"2022-09-12T11:51:31.496Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:51:31.501Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:51:31.501Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:51:31.503Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T11:51:31.506Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T11:51:31.506Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T11:51:31.507Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T11:51:31.514Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T12:09:32.210Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T12:09:32.214Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T12:09:32.215Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T12:09:32.216Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T12:11:16.196Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T12:11:16.200Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T12:11:16.201Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T12:11:16.202Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T12:12:19.039Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T12:12:19.045Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T12:12:19.046Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T12:12:19.047Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T12:13:11.257Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T12:13:11.260Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T12:13:11.261Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T12:13:11.262Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T12:14:48.560Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T12:14:48.563Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T12:14:48.564Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T12:14:48.565Z"}
+{"level":"info","message":{"average":2167,"paid":4000,"user":"A"},"timestamp":"2022-09-12T12:14:48.567Z"}
+{"level":"info","message":{"average":2167,"paid":500,"user":"B"},"timestamp":"2022-09-12T12:14:48.568Z"}
+{"level":"info","message":{"average":2167,"paid":2000,"user":"C"},"timestamp":"2022-09-12T12:14:48.569Z"}
+{"level":"info","message":"PaidBy  Share  Amount  Remaining ","timestamp":"2022-09-12T12:14:48.570Z"}
+{"level":"info","message":"A\t2167\t4000\t1833","timestamp":"2022-09-12T12:14:48.571Z"}
+{"level":"info","message":"B\t2167\t500\t-1667","timestamp":"2022-09-12T12:14:48.572Z"}
+{"level":"info","message":"C\t2167\t2000\t-167","timestamp":"2022-09-12T12:14:48.573Z"}
+{"level":"info","message":"B owes A 1667","timestamp":"2022-09-12T12:14:48.575Z"}
+{"level":"info","message":"C owes A 166","timestamp":"2022-09-12T12:14:48.576Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T12:15:30.846Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T12:15:30.850Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T12:15:30.851Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T12:15:30.853Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T12:15:56.242Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T12:15:56.246Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T12:15:56.247Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T12:15:56.249Z"}
+{"average":2167,"level":"info","paid":4000,"timestamp":"2022-09-12T12:15:56.251Z","user":"A"}
+{"average":2167,"level":"info","paid":500,"timestamp":"2022-09-12T12:15:56.253Z","user":"B"}
+{"average":2167,"level":"info","paid":2000,"timestamp":"2022-09-12T12:15:56.255Z","user":"C"}
+{"level":"info","message":"PaidBy  Share  Amount  Remaining ","timestamp":"2022-09-12T12:15:56.257Z"}
+{"level":"info","message":"A\t2167\t4000\t1833","timestamp":"2022-09-12T12:15:56.260Z"}
+{"level":"info","message":"B\t2167\t500\t-1667","timestamp":"2022-09-12T12:15:56.262Z"}
+{"level":"info","message":"C\t2167\t2000\t-167","timestamp":"2022-09-12T12:15:56.264Z"}
+{"level":"info","message":"B owes A 1667","timestamp":"2022-09-12T12:15:56.265Z"}
+{"level":"info","message":"C owes A 166","timestamp":"2022-09-12T12:15:56.266Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T12:18:46.524Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T12:18:46.528Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T12:18:46.529Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T12:18:46.530Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T12:19:32.574Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T12:19:32.578Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T12:19:32.579Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T12:19:32.580Z"}
+{"level":"info","message":"Bill is splitted","timestamp":"2022-09-12T12:19:32.592Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-12T12:22:12.374Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-12T12:22:12.378Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-12T12:22:12.379Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-12T12:22:12.380Z"}
+{"level":"info","message":"Printing the objects","timestamp":"2022-09-12T12:22:12.383Z"}
+{"level":"info","message":"Printing the objects","timestamp":"2022-09-12T12:22:12.384Z"}
+{"level":"info","message":"Printing the objects","timestamp":"2022-09-12T12:22:12.385Z"}
+{"level":"info","message":"Printing the objects","timestamp":"2022-09-12T12:22:12.386Z"}
+{"level":"info","message":"Printing the objects","timestamp":"2022-09-12T12:22:12.387Z"}
+{"level":"info","message":"Printing the objects","timestamp":"2022-09-12T12:22:12.390Z"}
+{"level":"info","message":"Printing the objects","timestamp":"2022-09-12T12:22:12.392Z"}
+{"level":"info","message":"Printing the objects","timestamp":"2022-09-12T12:22:12.393Z"}
+{"level":"info","message":"Printing the objects","timestamp":"2022-09-12T12:22:12.394Z"}
+{"level":"info","message":"Bill is splitted","timestamp":"2022-09-12T12:22:12.395Z"}
+{"level":"info","message":"The lists are calculated from the input data","timestamp":"2022-09-13T03:48:01.250Z"}
+{"level":"info","message":"Bills are summarized based on users","timestamp":"2022-09-13T03:48:01.253Z"}
+{"level":"info","message":"Bills are splitted and debt is calculated","timestamp":"2022-09-13T03:48:01.254Z"}
+{"level":"info","message":"Output is returned as objects","timestamp":"2022-09-13T03:48:01.255Z"}
+{"level":"info","message":"Printing the objects","timestamp":"2022-09-13T03:48:01.259Z"}
+{"level":"info","message":"Printing the objects","timestamp":"2022-09-13T03:48:01.261Z"}
+{"level":"info","message":"Printing the objects","timestamp":"2022-09-13T03:48:01.262Z"}
+{"level":"info","message":"Printing the objects","timestamp":"2022-09-13T03:48:01.263Z"}
+{"level":"info","message":"Printing the objects","timestamp":"2022-09-13T03:48:01.264Z"}
+{"level":"info","message":"Printing the objects","timestamp":"2022-09-13T03:48:01.265Z"}
+{"level":"info","message":"Printing the objects","timestamp":"2022-09-13T03:48:01.267Z"}
+{"level":"info","message":"Printing the objects","timestamp":"2022-09-13T03:48:01.268Z"}
+{"level":"info","message":"Printing the objects","timestamp":"2022-09-13T03:48:01.271Z"}
+{"level":"info","message":"Bill is splitted","timestamp":"2022-09-13T03:48:01.272Z"}

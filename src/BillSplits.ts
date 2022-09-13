@@ -1,120 +1,110 @@
-import logger from "./config/logger";
-import listOfBills from "./constants";
+import logger from './config/logger';
+import { paidAmountType, extract } from './extract'
+import listOfBills from './constants';
 
 type inputData = typeof listOfBills;
 
-type objectType ={
-    [key : string] : number;
+type summarizeAmount = {
+  [key: string]: number;
 };
 
-type paidAmountType ={
-    paidBy : string,
-    amount : number,
-}
+type summarizedByUsers = {
+  user: string;
+  average: number;
+  paid: number;
+};
 
-type summarizedByUsers ={
-    user : string,
-    average : number,
-    paid : number;
-}
+type billSplitsType = [summarizedByUsers[], string[], string[]];
 
-type billSplitsType = [summarizedByUsers[],string[],string[]];
-class billSplits{
+class billSplits {
+  
+  listOfBills:inputData;
+
+  constructor(listOfBills) {
+    this.listOfBills = listOfBills;
+  }
+
+  extractBills = async () => {
+    console.log("inside extractBills");
+    //Function create the list of objects from the bill
+    logger.log('info', 'The lists are calculated from the input data');
+    const billItems: paidAmountType[][] = this.listOfBills.map(extract);
+    return billItems;
+  }
+
+  summarizeBills = async (billData:paidAmountType[][]) => {
+    //the amount value is added based on keys in map
+    logger.log('info', 'Bills are summarized based on users');
+    //const billData = await this.extractBills();
+
+    const summarizeAmount: summarizeAmount = {};
+
+    billData.forEach((bills) => {
+      bills.forEach((amountPaid) => {  
+        if (!Object.keys(summarizeAmount).includes(amountPaid['paidBy'])) {
+          summarizeAmount[amountPaid['paidBy']] = amountPaid['amount'];
+        } else {
+          summarizeAmount[amountPaid['paidBy']] += amountPaid['amount'];
+        }
+      })
+    });
     
-    createLists(listOfBills:inputData):paidAmountType[]{ 
-        //Function create the list of objects from the bill
-        logger.log('info',"The lists are calculated from the input data");
-        var listOfObjects:paidAmountType[]=[];
+    return summarizeAmount;
+  }
 
-        listOfBills.forEach(function(value){
-        value.lineItems.forEach(element => {
-        listOfObjects.push(element);
-       });
-     })
+  billSplits = async (dataMap:summarizeAmount) => {
+    //The final bill split is calculated
+    logger.log('info', 'Bills are splitted and debt is calculated');
 
-     return listOfObjects;
+    const finalBill: string[] = [];
+    const debtCalculation: string[] = [];
+    const summarizeByUsersList: summarizedByUsers[] = [];
+
+    //the bill is splitted and the debt amount is calculated
+    const paidBy = Object.keys(dataMap);
+    const listInitial: string[] = paidBy.slice();
+    const amount = Object.values(dataMap);
+    //paidBy and amount is extracted into a list
+    const totalAmount: number = amount.reduce((acc, curr) => curr + acc);
+    let share: number = Math.round(totalAmount / paidBy.length);
+    //Share per paidBy is calculated
+    const sortedPaidBy: string[] = paidBy.sort((p1, p2) => dataMap[p1] - dataMap[p2]);
+    const sortedValuesPaid: number[] = sortedPaidBy.map((person) => dataMap[person]- share);
+
+    //the amount of values are also sorted for debt calculation
+    finalBill.push('PaidBy ' + ' Share ' + ' Amount ' + ' Remaining ');
+    for (var payee in paidBy) {
+      let users: summarizedByUsers = { user: '', average: 0, paid: 0 };
+      finalBill.push(listInitial[payee] + '\t' + share + '\t' + amount[payee] + '\t' + (amount[payee] - share));
+      users['user'] = listInitial[payee];
+      users['average'] = share;
+      users['paid'] = amount[payee];
+      summarizeByUsersList.push(users);
     }
+    
+    console.log('\n');
+    let start: number = 0;
+    let end: number = sortedPaidBy.length - 1;
+    let debt: number = 0;
 
-    summarizeBills(data:paidAmountType[]):objectType{
-        //the amount value is added based on keys in map
-        logger.log('info',"Bills are summarized based on users");
-        let summarizeAmount: objectType = {};
-
-        data.forEach((item)=>{
-            if(!(Object.keys(summarizeAmount).includes(item['paidBy']))){
-                summarizeAmount[item['paidBy']]=item['amount'];
-            }
-            else{
-                summarizeAmount[item['paidBy']]+=item['amount'];
-            }
-        })
-
-        return summarizeAmount;
-    }
-
-    billSplits(dataMap:objectType):billSplitsType{
-        //The final bill split is calculated
-        logger.log('info',"Bills are splitted and debt is calculated");
-        let finalBill:string[]=[];
-        let debtCalculation:string[]=[];
-        let summarizeByUsersList : summarizedByUsers[] =[]
-        
-        //the bill is splitted and the debt amount is calculated
-        let paidBy = Object.keys(dataMap);
-        let listInitial:string[] = paidBy.slice();
-        let amount = Object.values(dataMap);
-        //paidBy and amount is extracted into a list 
-        let totalAmount:number = amount.reduce((acc, curr) => curr+acc);
-        let share:number = Math.round(totalAmount/paidBy.length);
-        //Share per paidBy is calculated
-        let sortedPaidBy:string[] = paidBy.sort((p1,p2) => dataMap[p1] - dataMap[p2]);
-        let sortedValuesPaid:number[] = sortedPaidBy.map((person) => dataMap[person]-share);
-
-        //the amount of values are also sorted for debt calculation
-        finalBill.push("PaidBy "+" Share "+" Amount "+" Remaining ");
-        for(var d in paidBy){
-            let users : summarizedByUsers = {user:'',average:0,paid:0};
-            finalBill.push(listInitial[d]+"\t"+share+"\t"+amount[d]+"\t"+(amount[d]-share));
-            users['user']=listInitial[d];
-            users['average']=share;
-            users['paid']=amount[d];
-            summarizeByUsersList.push(users);
-        }
-
-        console.log("\n");
-        let i:number = 0;
-        let j:number = sortedPaidBy.length - 1;
-        let debt:number=0;
-
-        while (i < j) {
-          debt = Math.min(-(sortedValuesPaid[i]), sortedValuesPaid[j]);
-          sortedValuesPaid[i] += debt;
-          sortedValuesPaid[j] -= debt;
-          //Final part of the bill calculation of owing the debt is calculated
-          debtCalculation.push(sortedPaidBy[i]+" owes "+sortedPaidBy[j]+" "+debt);
-          if (sortedValuesPaid[i] === 0) {
-            i++;
-          }
-          if (sortedValuesPaid[j] === 0) {
-            j--;
-          }
-        }
-        logger.log('info',"Output is returned as objects");
-        return [summarizeByUsersList,finalBill,debtCalculation];
+    while (start < end) {
+      debt = Math.min(-sortedValuesPaid[start], sortedValuesPaid[end]);
+      sortedValuesPaid[start] += debt;
+      sortedValuesPaid[end] -= debt;
+      //Final part of the bill calculation of owing the debt is calculated
+      debtCalculation.push(sortedPaidBy[start] + ' owes ' + sortedPaidBy[end] + ' ' + debt);
+      if (sortedValuesPaid[start] === 0) {
+        start++;
       }
-    
+      if (sortedValuesPaid[end] === 0) {
+        end--;
+      }
+    }
+     
+    logger.log('info', 'Output is returned as objects');
+    return [summarizeByUsersList, finalBill, debtCalculation];
+  }
 }
 
-console.log("BillSplits Program");
-logger.log('info',"Bill Splits Calculation");
-var bs = new billSplits();  
-var arrayList:paidAmountType[] = bs.createLists(listOfBills);
-var dataMap:objectType = bs.summarizeBills(arrayList);
-var finalSettlement:billSplitsType = bs.billSplits(dataMap);
-finalSettlement.forEach(element => {
-    element.forEach(item =>{
-        console.log(item);
-    })
-    console.log("\n\n")
-});
-//Calling the function to split the bills
+export default billSplits;
+

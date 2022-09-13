@@ -1,5 +1,6 @@
 import * as winston from 'winston'
-const { createLogger, format, transports } = require("winston");
+import { createLogger, format, transports } from 'winston'
+ 
 const logConfig = winston.format.combine(
     winston.format.timestamp(),
     winston.format.align(),
@@ -37,9 +38,5 @@ const logConfiguration={
 };
 const logger=winston.createLogger(logConfiguration);
 export default logger;
-// logger.log({
-//  message: "Hello! I am the log file on 30th aug.",
-//     level:"info"
-// });
-// logger.info('Hello!! I am the log file here!!');
+
 
